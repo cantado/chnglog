@@ -1,0 +1,27 @@
+{
+  "name": "chnglog",
+  "version": "0.1.0",
+  "description": "Module to generate CHANGELOG file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cantado/changelogger.git"
+  },
+  "keywords": [
+    "git",
+    "changelog",
+    "generate"
+  ],
+  "author": "Cantado <stlaimer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cantado/changelogger/issues"
+  },
+  "homepage": "https://github.com/cantado/changelogger#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
